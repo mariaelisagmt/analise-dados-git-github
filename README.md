@@ -7,13 +7,12 @@
 
 > Projeto educativo para quem quer aprender **Git e GitHub** na prática, usando um projeto simples em **Python**.
 
----
+
 
 ## 📘 Descrição
 
 Este repositório foi criado com o objetivo de ensinar os **conceitos básicos de Git e GitHub** através de um projeto prático em **Python**. Ideal para iniciantes que desejam entender como versionar código, trabalhar com branches, fazer commits e publicar seus projetos no GitHub.
 
----
 
 ## 💡 O que você vai aprender
 
@@ -23,16 +22,19 @@ Este repositório foi criado com o objetivo de ensinar os **conceitos básicos d
 - Trabalhar com o **GitHub**
 - Comandos essenciais do Git
 - Ecossistema Github
----
+
+
 
 ## 📁 Estrutura do Projeto
 
 ├── README.md
+
 ├── analise_exploratoria_livros.py
+
 ├── analise_exploratoria_livros.ipynb
 
 
----
+
 
 ## 🚀 Como usar
 
@@ -65,7 +67,7 @@ Este repositório foi criado com o objetivo de ensinar os **conceitos básicos d
 
 Feito com 💻 por [Maria Elisa Gomes de Matos](https://github.com/mariaelisagmt)
 
----
+
 
 ## 📄 Licença
 
