@@ -160,8 +160,8 @@ def visualizacoes(df):
     idiomas_top_plot = df['language_code'].value_counts().nlargest(7)
     sns.barplot(x=idiomas_top_plot.index, y=idiomas_top_plot.values, palette='mako')
     plt.title('Top 7 Idiomas por Número de Livros')
-    plt.xlabel('Código do Idioma')
-    plt.ylabel('Número de Livros')
+    plt.xlabel('Cod. Idioma')
+    plt.ylabel('Nº de Livros')
     plt.show()
     print("   Gráfico 4: Contagem de Livros por Idioma gerado.")
 
