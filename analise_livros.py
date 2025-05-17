@@ -172,23 +172,9 @@ def visualizacoes(df):
     plt.title('Avaliação Média vs. Número de Avaliações')
     plt.xlabel('Avaliação Média')
     plt.ylabel('Número de Avaliações (Popularidade)')
-    plt.yscale('log') # Usar escala logarítmica para melhor visualização da popularidade
+    plt.yscale('log') 
     plt.show()
     print("   Gráfico 5: Relação Avaliação Média vs. Número de Avaliações gerado.")
-
-    # 6. Tendência da Avaliação Média ao Longo dos Anos
-    if 'original_publication_year' in df.columns:
-        # Agrupar por ano e calcular a média da avaliação
-        df_anos_filtrados = df[(df['original_publication_year'] >= 1950) & (df['original_publication_year'] <= pd.Timestamp.now().year -1)] #Exclui ano corrente
-        media_avaliacao_por_ano = df_anos_filtrados.groupby('original_publication_year')['average_rating'].mean().reset_index()
-        plt.figure(figsize=(14, 7))
-        sns.lineplot(data=media_avaliacao_por_ano, x='original_publication_year', y='average_rating', marker='o', color='purple')
-        plt.title('Tendência da Avaliação Média dos Livros ao Longo dos Anos (1950 - Penúltimo Ano)')
-        plt.xlabel('Ano de Publicação Original')
-        plt.ylabel('Avaliação Média')
-        plt.grid(True, linestyle='--', alpha=0.7)
-        plt.show()
-        print("   Gráfico 6: Tendência da Avaliação Média ao Longo dos Anos gerado.")
 
 
 def main():
