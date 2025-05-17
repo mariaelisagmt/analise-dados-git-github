@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-2.0+-orange?logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Aulas-e-Prática-black?logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aulas-e-Prática-black?logo=github)](https://github.com/mariaelisagmt/analise-dados-livros)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > Projeto educativo para quem quer aprender **Git e GitHub** na prática, usando um projeto simples em **Python**.
@@ -29,11 +29,7 @@ Este repositório foi criado com o objetivo de ensinar os **conceitos básicos d
 
 ├── README.md
 
-├── analise_exploratoria_livros.py
-
-├── analise_exploratoria_livros.ipynb
-
-
+├── analise_livros.py
 
 
 ## 🚀 Como usar
@@ -59,9 +55,9 @@ Este repositório foi criado com o objetivo de ensinar os **conceitos básicos d
 - Google Colab
 
 ## 📚 Recursos adicionais
-- [![Documentação oficial do Git](https://git-scm.com/doc)]
-- [![Guia de Markdown](https://www.markdownguide.org/basic-syntax/)]
-- [![Commites Semânticos](https://github.com/iuricode/padroes-de-commits)]
+- [Documentação oficial do Git](https://git-scm.com/doc)
+- [Guia de Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Commites Semânticos](https://github.com/iuricode/padroes-de-commits)
 
 ## 🧑‍💻 Autor
 
