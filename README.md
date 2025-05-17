@@ -60,7 +60,7 @@ Este repositório foi criado com o objetivo de ensinar os **conceitos básicos d
 - [Commites Semânticos](https://github.com/iuricode/padroes-de-commits)
 
 ## 🧑‍💻 Autor
-
+Feito com 💻 por [Winiston Vieira](https://github.com/winistonvf)
 
 ## 📄 Licença
 
