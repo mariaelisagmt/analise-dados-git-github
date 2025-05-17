@@ -61,7 +61,8 @@ Este repositório foi criado com o objetivo de ensinar os **conceitos básicos d
 
 ## 🧑‍💻 Autor
 
-Feito com 💻 por [Maria Elisa Gomes de Matos](https://github.com/mariaelisagmt)
+Feito com 💻 por [Winiston Vieira de Freitas](https://github.com/winistonvf)
+
 
 
 
