@@ -14,7 +14,6 @@ Dataset: Goodbooks-10k
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import
 
 # Dataset Goodbooks-10k
 DATA_URL = "https://raw.githubusercontent.com/zygmuntz/goodbooks-10k/master/books.csv"
