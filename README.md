@@ -61,10 +61,6 @@ Este repositório foi criado com o objetivo de ensinar os **conceitos básicos d
 
 ## 🧑‍💻 Autor
 
-Feito com 💻 por [Winiston Vieira de Freitas](https://github.com/winistonvf)
-
-
-
 
 ## 📄 Licença
 
