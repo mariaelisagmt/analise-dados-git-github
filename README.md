@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-2.0+-orange?logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Aulas-e-Prática-black?logo=github)](https://github.com/mariaelisagmt/analise-dados-livros)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > Projeto educativo para quem quer aprender **Git e GitHub** na prática, usando um projeto simples em **Python**.
@@ -62,7 +61,6 @@ Este repositório foi criado com o objetivo de ensinar os **conceitos básicos d
 ## 🧑‍💻 Autor
 
 Feito com 💻 por [Maria Elisa Gomes de Matos](https://github.com/mariaelisagmt)
-
 
 
 ## 📄 Licença
