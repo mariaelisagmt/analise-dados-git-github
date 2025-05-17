@@ -153,7 +153,7 @@ def visualizacoes(df):
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout() # Ajusta o layout para não cortar os labels
     plt.show()
-    print("   Gráfico 3: Top 10 Autores gerado.")
+    printa("   Gráfico 3: Top 10 Autores gerado.")
 
      # 4. Contagem de Livros por Idioma (Top 7)
     plt.figure(figsize=(10, 6))
